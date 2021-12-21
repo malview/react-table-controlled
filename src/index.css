@@ -1,0 +1,11 @@
+body {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
+    Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+}
+.ReactTable .rt-tbody .rt-td {
+  border: 2px solid red;
+  border-top: none;
+  border-bottom: none;
+}
